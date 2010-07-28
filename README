@@ -1,0 +1,13 @@
+
+			PreHear
+
+A simple sample auditioning program,
+allows the playback of .wav,.au,.aiff files.
+
+It uses JACK as its backend, and will *not*
+currently resample to JACK's audio rate, it
+will just pump out the sample. Just so you know.
+
+Feedback to harryhaaren@gmail.com
+
+Cheers, -Harry
